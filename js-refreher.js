@@ -19,3 +19,5 @@ class test1 extends test {
 
 const jai = new test1();
 jai.printName()
+
+
